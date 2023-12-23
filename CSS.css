@@ -1,0 +1,12 @@
+body{
+    color: brown;
+}
+ol li{
+    line-height: 50px;
+}
+.i{
+    font-style: italic;
+}
+ul li{
+    letter-spacing: 5px;
+}
